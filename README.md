@@ -1,3 +1,3 @@
-# SQL
+# Model oraz implementacja bazy MSSQL dla komisu samochodowego
 
-Przykładowe projekty SQL / Some example SQL projects
+
